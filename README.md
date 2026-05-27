@@ -7,6 +7,9 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter01_Basics** - Getting started with Playwright fundamentals
 - **Chapter02_javascriptcocepts** - JavaScript concepts for Playwright automation
 - **Chapter_04_Javascriptconcepts** - Advanced JavaScript concepts for Playwright automation
+- **Chapter_05_Literal.js** - JavaScript literals and data types
+- **Chapter_06_operator** - JavaScript operators (Ternary, Type, Increment/Decrement, Nullish Coalescing)
+- **Chapter_07_If_else** - Conditional statements and control flow
 
 ## Getting Started
 
@@ -36,6 +39,19 @@ This repository contains learning materials and code examples for Playwright tes
 - Const Explained (`13_const_explained.js`)
 - Var Function Scope (`14_var_functionscope.js`)
 - Hoisting (`16_Hoisting.js`, `17_hoisting_fn.js`)
+
+### Chapter_05_Literal.js
+- JavaScript Literals and Data Types
+
+### Chapter_06_operator
+- Ternary Operator (`41_Ternary_opeartor.js`)
+- Type Operator (`42_Type_operator.js`)
+- Increment/Decrement Operators (`43_Incr_dec_operator.js`, `45_Post_increment.js`, `46_IQ_Increment.js`, `47_Advanced_Icncrement.js`)
+- Nullish Coalescing Operator (`44_Null_operator.js`)
+- Tasks (`18May_Task.js`)
+
+### Chapter_07_If_else
+- Conditional Statements and Control Flow
 
 ## Author
 
