@@ -10,6 +10,7 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter_05_Literal.js** - JavaScript literals and data types
 - **Chapter_06_operator** - JavaScript operators (Ternary, Type, Increment/Decrement, Nullish Coalescing)
 - **Chapter_07_If_else** - Conditional statements and control flow
+- **Chapter08_Switch_Statement** - Switch statement examples
 
 ## Getting Started
 
@@ -52,6 +53,9 @@ This repository contains learning materials and code examples for Playwright tes
 
 ### Chapter_07_If_else
 - Conditional Statements and Control Flow
+
+### Chapter08_Switch_Statement
+- Switch Statement examples and exercises
 
 ## Author
 
