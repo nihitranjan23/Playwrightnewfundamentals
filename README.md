@@ -11,6 +11,8 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter_06_operator** - JavaScript operators (Ternary, Type, Increment/Decrement, Nullish Coalescing)
 - **Chapter_07_If_else** - Conditional statements and control flow
 - **Chapter08_Switch_Statement** - Switch statement examples
+- **Chapter_09_UserInput** - Handling user input in JavaScript
+- **Chapter_10_Loop** - Looping constructs and iterations
 
 ## Getting Started
 
@@ -56,6 +58,19 @@ This repository contains learning materials and code examples for Playwright tes
 
 ### Chapter08_Switch_Statement
 - Switch Statement examples and exercises
+
+### Chapter_09_UserInput
+- User Input Basics (`68_user_input.js`)
+- Node Readline (`69_Node_readline.js`)
+- Prompt Sync (`70_prompt_sync.js`)
+
+### Chapter_10_Loop
+- For Loop (`71_for_loop.js`, `72_for_Loop.js`, `73_for_loop2.js`)
+- While Loop (`76_while.js`)
+- Do While Loop (`77_Do_while.js`, `78_Do_while.js`)
+- For Each (`75_for_each.js`)
+- Interview Questions (`74_IQ.js`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js`)
+- Tasks (`Task_22May.js`)
 
 ## Author
 
