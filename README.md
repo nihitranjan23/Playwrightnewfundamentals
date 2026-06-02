@@ -13,6 +13,7 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter08_Switch_Statement** - Switch statement examples
 - **Chapter_09_UserInput** - Handling user input in JavaScript
 - **Chapter_10_Loop** - Looping constructs and iterations
+- **Chapter_11_Array** - Array methods, operations, and manipulation
 
 ## Getting Started
 
@@ -71,6 +72,15 @@ This repository contains learning materials and code examples for Playwright tes
 - For Each (`75_for_each.js`)
 - Interview Questions (`74_IQ.js`, `79_IQ.js`, `80_IQ.js`, `81_IQ.js`, `82_IQ.js`)
 - Tasks (`Task_22May.js`)
+
+### Chapter_11_Array
+- Array Basics (`83_Array.js`, `84_Array.js`)
+- Accessing Arrays (`85_Access _Array.js`)
+- Adding & Removing Elements (`86_Array_Adding_removing.js`, `87_Adding_remove2.js`)
+- Real Examples (`88_Real_example.js`)
+- Searching Arrays (`89_searching.js`)
+- Iterating Arrays (`90_iterate.js`)
+- Transforming Arrays (`91_Transform_array.js`)
 
 ## Author
 
