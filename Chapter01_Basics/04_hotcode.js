@@ -7,4 +7,4 @@ let result;
 for (let i = 0; i < 10; i++) {
     result = add(i, i + 1);
 }
-console.log("After 100 calls:", result);
+console.log("After 100 calls:", result); //example of hot code

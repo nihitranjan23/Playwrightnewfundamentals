@@ -3,7 +3,7 @@
 // }
 // // 0 to 9, Times -> 10
 
-// var, let, const
+// var, let, const here let is only used
 
 // for (let somya = 0; somya < 10; somya++) { // 0 to 9, Times -> 10
 //     console.log(somya);
