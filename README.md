@@ -14,6 +14,7 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter_09_UserInput** - Handling user input in JavaScript
 - **Chapter_10_Loop** - Looping constructs and iterations
 - **Chapter_11_Array** - Array methods, operations, and manipulation
+- **Chapter_12_Functions** - JavaScript functions and types
 
 ## Getting Started
 
@@ -81,6 +82,15 @@ This repository contains learning materials and code examples for Playwright tes
 - Searching Arrays (`89_searching.js`)
 - Iterating Arrays (`90_iterate.js`)
 - Transforming Arrays (`91_Transform_array.js`)
+- Array Slicing (`92_Array.js`, `93_Array_Slicing.js`)
+- Concatenating Arrays (`94_Concat_Array.js`)
+
+### Chapter_12_Functions
+- Functions Introduction (`96_functions.js`)
+- Basic Function (`97_Type01_basic_function.js`)
+- Function with Parameters, No Return (`98_Type2_with para_no return.js`)
+- Function without Parameters, with Return (`99_Type03_withoutpara_withreturn.js`)
+- Function with Parameters and Return (`100_Type04_withpara_withreturn.js`)
 
 ## Author
 
