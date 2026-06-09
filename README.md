@@ -91,6 +91,18 @@ This repository contains learning materials and code examples for Playwright tes
 - Function with Parameters, No Return (`98_Type2_with para_no return.js`)
 - Function without Parameters, with Return (`99_Type03_withoutpara_withreturn.js`)
 - Function with Parameters and Return (`100_Type04_withpara_withreturn.js`)
+- Temporal Literals (`101_Temperal_literal.js`)
+- Function Expressions (`102_Function_expression.js`)
+- Arrow Functions (`103_Arrow_function.js`, `104_Arrow_fn_real.js`)
+- IIFE (`105_IIFE.js`)
+- Default Parameters (`106_Default_Parm_fun.js`, `106_Default_paramter_fun.js`)
+- Interview Questions (`107_IQ.js`, `109_IQ.js`, `112_IQ.js`)
+- Rest Parameters (`108_rest_param_fun.js`, `108_rest_parameter_examples.js`)
+- Spread Operator (`110_Spead_IQ.js`)
+- Function Scope (`111_Scope_fn.js`)
+- Closures (`113_Closure.js`, `114_closure.js`, `115_API_Real_Closure.js`)
+- High-Order Functions (`116_High_order_fn.js`)
+- Pure Functions (`117_Pure_fun.js`)
 
 ## Author
 
