@@ -15,6 +15,10 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter_10_Loop** - Looping constructs and iterations
 - **Chapter_11_Array** - Array methods, operations, and manipulation
 - **Chapter_12_Functions** - JavaScript functions and types
+- **Chapter_13_String** - JavaScript string methods and manipulation
+- **Chapter_14_Objects** - JavaScript objects and object-oriented concepts
+- **Chapter_15_2DArray** - Two-dimensional arrays and patterns
+- **Chapter_16_Callback** - Callback functions and asynchronous programming
 
 ## Getting Started
 
@@ -103,6 +107,45 @@ This repository contains learning materials and code examples for Playwright tes
 - Closures (`113_Closure.js`, `114_closure.js`, `115_API_Real_Closure.js`)
 - High-Order Functions (`116_High_order_fn.js`)
 - Pure Functions (`117_Pure_fun.js`)
+
+### Chapter_13_String
+- String Basics (`118_String.js`, `119_string_properties.js`)
+- Searching & Checking Strings (`120_Search_check_str.js`)
+- Substring & Slice (`121_substring.js`, `121_diff_slice_substring.js`)
+- Transforming Strings (`122_Transform_str.js`)
+- String Constructor (`123_String_constructor.js`)
+- String Cheatsheet (`Javascript_string_cheatssheet.md`)
+- Tasks (`Task_3june_anagram.js`, `Task_3june_palindrome.js`)
+
+### Chapter_14_Objects
+- Objects Introduction (`124_Objects.js`, `125_Object2.js`)
+- Object Creation (`126_Object_creation.js`)
+- Real World Objects (`127_Object_real.js`, `129_object_example.js`, `136_Objects_real.js`)
+- Primitive vs Reference (`128_primitive_ref.js`)
+- Object Functions (`131_Object_function.js`)
+- Object Destructuring (`132_object_deconstrctor.js`)
+- Spread Operator (`133_spread.js`)
+- Get & Set Methods (`134_Objects_get_set_method.js`)
+- Interview Questions (`130_IQ.js`, `135_IQ.js`)
+- Let & Const with Objects (`137_let_const_object.js`)
+
+### Chapter_15_2DArray
+- 2D Array Basics (`138_2D_Array.js`, `139_2d.js`)
+- Real Examples (`140_real.js`)
+- 2D Array Functions (`141_2d_Arrayfunc.js`)
+- Pattern Problems (`142_IQ_right pattern_Pyramid.js`)
+- Tasks (`Task_08June.js`)
+
+### Chapter_16_Callback
+- Callback Introduction (`143_Callback.js`, `144_CB.js`)
+- Callback Functions (`145_CB_fn.js`)
+- Playwright Callback (`146_PW_CB.js`)
+- JavaScript Callback (`147_JS_CB.js`)
+- Synchronous Callback (`148_Syn_CB.js`)
+- Asynchronous Callback (`149_Asyn_CB.js`)
+- Callback Hell (`150_CB_hell.js`, `151_CB_hell_20 steps.js`)
+- Callback with Parameters (`152_CB_Parameter.js`)
+- Callback with Return (`153_CB_Return.js`)
 
 ## Author
 
