@@ -147,6 +147,28 @@ This repository contains learning materials and code examples for Playwright tes
 - Callback with Parameters (`152_CB_Parameter.js`)
 - Callback with Return (`153_CB_Return.js`)
 
+### Promise Concepts
+- `Promise.all()` behavior and rejection handling
+
+```javascript
+let t1 = Promise.resolve("PASS");
+let t2 = Promise.reject("FAIL");
+let t3 = Promise.resolve("PASS");
+
+Promise.all([t1, t2, t3])
+    .then(function (r) { console.log("All:", r); })
+    .catch(function (err) { console.log("Stopped:", err); });
+```
+
+**Output:**
+```
+Stopped: FAIL
+```
+
+**Explanation:** `Promise.all()` waits for all promises to resolve. If **any one** rejects, it immediately rejects with that first rejection reason. Since `t2` rejects with `"FAIL"`, the `.then()` is skipped and `.catch()` runs instead.
+
+**Key Point:** `Promise.all()` is "all or nothing" — one failure stops the entire operation. For individual promise results regardless of failure, use `Promise.allSettled()`.
+
 ## Author
 
 nihitranjan23
