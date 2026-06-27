@@ -13,6 +13,6 @@ console.log(str.includes("Pass"));
 
 // substring(start, end) — no negatives (treats as 0)
 
-console.log(str.substring(6, 10));
-console.log(str.substring(5, 14));
+console.log(str.substring(6, 10));  //(6,9)
+console.log(str.substring(5, 14));   //(5,13)
 

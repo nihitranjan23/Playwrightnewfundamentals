@@ -6,6 +6,8 @@ let scores = [
 
 let rowSums = scores.map(row => row.reduce((a, b) => a + b, 0));
 console.log(rowSums);
+//reduce is used to reduce the no of iteration
+//map isuser t0 search for each value 
 
 let suiteResults = [
     ["login-pass", "register-pass", "logout-pass"],  // Auth suite

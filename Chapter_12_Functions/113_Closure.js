@@ -12,3 +12,4 @@ let fn_inner = outer();
 fn_inner();
 
 // inner(); // ReferenceError: inner is not defined
+//this closure will be never used in automation

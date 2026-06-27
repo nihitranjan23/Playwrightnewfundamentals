@@ -1,4 +1,4 @@
-// Arrow Function (ES6)
+// Arrow Function (ES6)  
 
 // const greet = function (name1) {
 //     return "Hi" + name1;

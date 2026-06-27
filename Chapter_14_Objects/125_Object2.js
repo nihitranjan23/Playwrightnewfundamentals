@@ -20,7 +20,7 @@ let a = { status: "pass" };
 
 //
 
-let b = a;
+let b = a;  //copy by reference
 b.status = "fail";
 console.log(a.status);
 console.log(b.status);

@@ -10,7 +10,7 @@ str.trimEnd();
 let msg = "Test: FAIL. Retry: FAIL.";
 console.log(msg.replace("FAIL", "PASS"));
 console.log(msg.replaceAll("FAIL", "PASS"));
-console.log(msg.replace(/FAIL/g, "PASS"));
+console.log(msg.replace(/FAIL/g, "PASS"));  // g is regex
 
 // Concatenation
 "Hello" + " " + "World";

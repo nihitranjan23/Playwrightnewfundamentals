@@ -6,7 +6,7 @@ config.testname = "login test";
 
 console.log(config);
 
-//delete config.browser;
+//delete config.browser;  //this will delete key
 //console.log(config);
 
 

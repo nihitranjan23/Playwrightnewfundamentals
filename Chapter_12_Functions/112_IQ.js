@@ -1,7 +1,7 @@
 let g_x = 10;
 
 
-// Nested scope | blocked scope 
+// Nested scope | blocked scope //will not be used in automation
 function outer() {
     let x = 10;
 

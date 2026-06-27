@@ -2,7 +2,7 @@ const obj = { a: 1, b: 2, c: 3 };
 
 console.log(Object.keys(obj));
 console.log(Object.values(obj));
-console.log(Object.entries(obj));
+console.log(Object.entries(obj)); //entries for key and value both
 
 const user = { name: "John", age: 30 };
 
@@ -10,6 +10,7 @@ for (const key in user) {
     console.log(`${key}: ${user[key]}`);
 }
 
+//below method we are not using
 // // Object.keys/values/entries
 // Object.keys(user).forEach(key => {
 //     console.log(key);

@@ -8,7 +8,7 @@ function placeOrder(ClipboardItem, pramodCallback) {
 }
 
 // First Way
-//placeOrder("Pizza", print);
+placeOrder("Pizza", print);
 
 /*
 
