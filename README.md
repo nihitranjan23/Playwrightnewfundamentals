@@ -19,6 +19,15 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter_14_Objects** - JavaScript objects and object-oriented concepts
 - **Chapter_15_2DArray** - Two-dimensional arrays and patterns
 - **Chapter_16_Callback** - Callback functions and asynchronous programming
+- **Chapter17_Promise** - JavaScript Promises and promise methods
+- **Chapter18_Async_Await** - Async/await syntax and error handling
+- **CHapter19_Playwright_basics** - Playwright test automation basics
+- **Chapter20_Exprt_import** - JavaScript export/import modules
+- **Chapter21_Class_object** - Classes and objects in JavaScript
+- **Chapter22_Encapsulation** - Data encapsulation and access modifiers
+- **Chapter23_Inheritance** - Prototypal and class-based inheritance
+- **Chapter24_Polymorphism** - Polymorphism concepts and method overriding
+- **Chapter25_oops_interview** - OOPs interview questions and preparation
 
 ## Getting Started
 
