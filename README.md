@@ -28,6 +28,8 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter23_Inheritance** - Prototypal and class-based inheritance
 - **Chapter24_Polymorphism** - Polymorphism concepts and method overriding
 - **Chapter25_oops_interview** - OOPs interview questions and preparation
+- **Chapter_26_Typescript** - TypeScript basics and setup
+- **Chapter_27_Typescript_interface** - TypeScript interfaces and type definitions
 
 ## Getting Started
 

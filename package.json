@@ -1,0 +1,26 @@
+{
+  "name": "playwright-2x",
+  "version": "1.0.0",
+  "description": "This repository contains learning materials and code examples for Playwright test automation.",
+  "main": "Chapter_05_Literal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihitranjan23/Playwrightnewfundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nihitranjan23/Playwrightnewfundamentals/issues"
+  },
+  "homepage": "https://github.com/nihitranjan23/Playwrightnewfundamentals#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
