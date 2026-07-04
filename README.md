@@ -30,6 +30,9 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter25_oops_interview** - OOPs interview questions and preparation
 - **Chapter_26_Typescript** - TypeScript basics and setup
 - **Chapter_27_Typescript_interface** - TypeScript interfaces and type definitions
+- **Chapter28_Enums** - TypeScript enums and constants
+- **Chapter29_typescript_generics** - TypeScript generics and reusable components
+- **Chapter30_Private_Public_protected** - Access modifiers (public, private, protected) in TypeScript
 
 ## Getting Started
 
@@ -179,6 +182,25 @@ Stopped: FAIL
 **Explanation:** `Promise.all()` waits for all promises to resolve. If **any one** rejects, it immediately rejects with that first rejection reason. Since `t2` rejects with `"FAIL"`, the `.then()` is skipped and `.catch()` runs instead.
 
 **Key Point:** `Promise.all()` is "all or nothing" — one failure stops the entire operation. For individual promise results regardless of failure, use `Promise.allSettled()`.
+
+### Chapter_27_Typescript_interface
+- Interfaces (`205_Interface.ts`)
+- Test Hooks (`206_Hook.ts`)
+- Bug Reports (`207_Bug_report.ts`)
+- Test Configuration (`208_testcong.ts`)
+- Real-World Examples (`209_Real_example.ts`)
+- Class Interface Implementation (`210_Class_Interface.ts`)
+
+### Chapter29_typescript_generics
+- Generics Basics (`215_Generics.ts`)
+- Generics with Classes (`216_Generics_Class.ts`)
+- Generics with API Responses (`217_Generics_API_response.ts`)
+
+### Chapter30_Private_Public_protected
+- Access Modifiers Overview (`218_PPP.ts`)
+- Page Object Model Example (`219_PageobjectModel.ts`)
+- Readonly Properties (`220_readonly.ts`)
+- Abstract Classes (`221_Abstract_Class.ts`)
 
 ## Author
 
