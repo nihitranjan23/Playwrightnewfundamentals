@@ -33,18 +33,56 @@ This repository contains learning materials and code examples for Playwright tes
 - **Chapter28_Enums** - TypeScript enums and constants
 - **Chapter29_typescript_generics** - TypeScript generics and reusable components
 - **Chapter30_Private_Public_protected** - Access modifiers (public, private, protected) in TypeScript
+- **Chapter31_tye_Override_Decorator** - Type overrides and decorators in TypeScript
+- **Chapter32_Playwright_fundamentals** - Playwright test automation fundamentals
 
 ## Getting Started
 
+### Root Project Setup
 1. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Run tests:
-   ```bash
-   npx playwright test
-   ```
+### Running Playwright Tests
+
+#### Chapter 19 - Playwright Basics
+This chapter has its own local Playwright installation. To run tests:
+```bash
+cd CHapter19_Playwright_basics
+npm install
+npx playwright test
+```
+
+Or from the project root using the specific config:
+```bash
+cd CHapter19_Playwright_basics
+npx playwright test
+```
+
+#### Chapter 32 - Playwright Fundamentals
+> **Note:** This folder is currently empty. No tests or configuration exist yet.
+> Running `npx playwright test` targeting this folder will result in **"No tests found"**.
+
+## Known Issues
+
+### 1. Playwright Version Conflict
+There are two different versions of `@playwright/test` in this project:
+- **Global/npx CLI**: Version `1.61.0`
+- **Chapter19 local `node_modules`**: Version `1.61.1`
+
+**Impact:** Running `npx playwright test` from the project root causes:
+```
+Error: Playwright Test did not expect test() to be called here.
+```
+
+**Workaround:** Always run Playwright commands from within the `CHapter19_Playwright_basics` directory where the local Playwright version matches the CLI.
+
+### 2. Empty Chapter32 Folder
+The `Chapter32_Playwright_fundamentals` folder contains no test files or `playwright.config.ts`. It needs to be populated with Playwright test examples and configuration files.
+
+### 3. Missing Root-Level Playwright Configuration
+The root `package.json` does not include `@playwright/test` as a dependency, and there is no root `playwright.config.ts`. This means Playwright cannot automatically discover tests across the entire project from the root directory.
 
 ## Contents
 
@@ -201,6 +239,13 @@ Stopped: FAIL
 - Page Object Model Example (`219_PageobjectModel.ts`)
 - Readonly Properties (`220_readonly.ts`)
 - Abstract Classes (`221_Abstract_Class.ts`)
+
+### Chapter31_tye_Override_Decorator
+- Type Overrides and Decorators in TypeScript
+
+### Chapter32_Playwright_fundamentals
+- Playwright Test Automation Fundamentals
+- **Status:** Empty folder - awaiting content
 
 ## Author
 
